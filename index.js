@@ -1,4 +1,4 @@
- let num1 = 31
+let num1 = 31
 
 let num2 = 2
 
